@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/tahir-iqbal-72549a151/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am an aspiring professional deeply engaged in the realm of technology, driven by a profound interest and a commitment to resolving intricate challenges.
 
 ## Objective
 
