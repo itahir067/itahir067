@@ -13,6 +13,7 @@ As a Cyber Security Analyst, my passion lies in protecting people and their data
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/itahir067/Detection-Lab/blob/main/README.md">Detection Lab</a>|
+| Scope Goals and risk assesment Report         | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
