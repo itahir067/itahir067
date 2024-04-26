@@ -53,4 +53,5 @@ As a Cyber Security Analyst, my passion lies in protecting people and their data
 
 ## Projects
 - <a href="https://github.com/itahir067/Detection-Lab/blob/main/README.md">Detection Lab</a>
+- <a href="https://github.com/itahir067/Audit-Lab/tree/main">Internal Audit Lab</a>
 - SOC Automation Project
