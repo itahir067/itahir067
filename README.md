@@ -13,8 +13,9 @@ As a Cyber Security Analyst, my passion lies in protecting people and their data
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/itahir067/Detection-Lab/blob/main/README.md">Detection Lab</a>|
-| Monitor threats, risks & vulnerabilities      | <a href="https://github.com/itahir067/Audit-Lab/tree/main">Internal Audit Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Monitored threats, risks & vulnerabilities      | <a href="https://github.com/itahir067/Audit-Lab/tree/main">Internal Audit Lab</a>|
+| File Handling operation in Linux C-Line | <a href="https://github.com/itahir067/File-Handling-in-Linux---Lab">Linux C-Line Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="Attack Detection">Attack Detection</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -60,4 +61,5 @@ As a Cyber Security Analyst, my passion lies in protecting people and their data
 ## Projects
 - <a href="https://github.com/itahir067/Detection-Lab/blob/main/README.md">Detection Lab</a>
 - <a href="https://github.com/itahir067/Audit-Lab/tree/main">Internal Audit Lab</a>
+- <a href="https://github.com/itahir067/File-Handling-in-Linux---Lab">Linux C-Line Lab</a>|
 - SOC Automation Project
