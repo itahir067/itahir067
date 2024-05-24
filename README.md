@@ -14,7 +14,7 @@ As a Cyber Security Analyst, my passion lies in protecting people and their data
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/itahir067/Detection-Lab/blob/main/README.md">Detection Lab</a>|
 | Monitored threats, risks & vulnerabilities      | <a href="https://github.com/itahir067/Audit-Lab/tree/main">Internal Audit Lab</a>|
-| File Handling operation in Linux C-Line | <a href="https://github.com/itahir067/File-Handling-in-Linux---Lab">Linux C-Line Lab</a>|
+| File Handling Operations in Linux C-Line | <a href="https://github.com/itahir067/File-Handling-in-Linux---Lab">Linux C-Line Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="Attack Detection">Attack Detection</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
